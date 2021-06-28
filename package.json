@@ -1,0 +1,15 @@
+{
+  "name": "due-date-calculator",
+  "version": "1.0.0",
+  "description": "This implementation helps to calculate the due date of an issue in the future.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "author": "danielruszki",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
